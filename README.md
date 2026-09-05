@@ -464,17 +464,5 @@ Coder Buddy is actively being developed and used as a practical project for expl
 
 ---
 
-## 👨‍💻 Author
-
-**Himanshu Singh**
-
-Building and learning in the field of:
-
-- Generative AI
-- Agentic AI
-- AI Engineering
-- Full-Stack Development
-
----
 
 ⭐ If you find this project interesting, consider giving the repository a star!
